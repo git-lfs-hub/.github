@@ -35,17 +35,17 @@ Each repo is independently useful, but **[deploy](https://github.com/git-lfs-hub
 
 File bug reports or feature requests in the repo that matches the area — **[deploy](https://github.com/git-lfs-hub/deploy)** for setup, vars, or CI wiring; **[server](https://github.com/git-lfs-hub/server)** for API or Worker behavior; **[docs](https://github.com/git-lfs-hub/docs)** for written guides; **[config](https://github.com/git-lfs-hub/config)** for vars schema or template rendering; **[e2e](https://github.com/git-lfs-hub/e2e)** for the staging workflow or smoke tests. If you are unsure, open it on **[deploy](https://github.com/git-lfs-hub/deploy)** and maintainers will redirect.
 
-[deploy-badge]: https://github.com/git-lfs-hub/deploy/actions/workflows/main.yml/badge.svg
+[deploy-badge]: https://badgen.net/github/checks/git-lfs-hub/deploy/main?icon=gitlfs&label=
 [deploy-href]: https://github.com/git-lfs-hub/deploy/actions/workflows/main.yml
 
-[server-badge]: https://github.com/git-lfs-hub/server/actions/workflows/main.yml/badge.svg
+[server-badge]: https://badgen.net/github/checks/git-lfs-hub/server/main?icon=vitest&label=
 [server-href]: https://github.com/git-lfs-hub/server/actions/workflows/main.yml
 
-[docs-badge]: https://github.com/git-lfs-hub/docs/actions/workflows/main.yml/badge.svg
+[docs-badge]: https://badgen.net/github/checks/git-lfs-hub/docs/main?icon=markdown&label=
 [docs-href]: https://github.com/git-lfs-hub/docs/actions/workflows/main.yml
 
-[config-badge]: https://github.com/git-lfs-hub/config/actions/workflows/main.yml/badge.svg
+[config-badge]: https://badgen.net/github/checks/git-lfs-hub/config/main?icon=vitest&label=
 [config-href]: https://github.com/git-lfs-hub/config/actions/workflows/main.yml
 
-[e2e-badge]: https://github.com/git-lfs-hub/e2e/actions/workflows/main.yml/badge.svg
+[e2e-badge]: https://badgen.net/github/checks/git-lfs-hub/e2e/main?icon=bun&label=
 [e2e-href]: https://github.com/git-lfs-hub/e2e/actions/workflows/main.yml
